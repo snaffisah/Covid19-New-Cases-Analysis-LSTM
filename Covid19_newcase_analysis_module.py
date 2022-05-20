@@ -163,6 +163,6 @@ class ModelEvaluation():
         
         mean_absolute_error(data1, data2)
 
-        print('\n Mean absolute error:', 
+        print('\n Mean absolute percentage error:', 
               mean_absolute_error(data1, data2)/sum(abs(data1))*100)
         
