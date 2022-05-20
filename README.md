@@ -31,9 +31,7 @@ A sequential model was created with 2 LSTM layer, 2 Batch Normalization layer, 2
 <p align="center">
   <img src="https://github.com/snaffisah/Covid19-New-Cases-Analysis-LSTM/blob/main/Image/model%20flow.JPG">
 </p>
-Batch normalization, do help reduce the error as it scaled all data into the same scale and get improvement with the training speed. 
-
-For the dropout layer, it help in reducing the overfitting and generalization error.
+Batch normalization, do help reduce the error as it scaled all data into the same scale and get improvement with the training speed. For the dropout layer, it help in reducing the overfitting and generalization error.
 
 Data were trained with 200 epoch:
 <p align="center">
